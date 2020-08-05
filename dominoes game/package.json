@@ -1,0 +1,23 @@
+{
+  "name": "TA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dominoes.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesam-k/post-grad-ed-wesam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesam-k/post-grad-ed-wesam/issues"
+  },
+  "homepage": "https://github.com/wesam-k/post-grad-ed-wesam#readme",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
+}
