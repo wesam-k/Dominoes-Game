@@ -1,0 +1,19 @@
+1- Why is this (not) working?
+
+when I start with 
+ - Which tile to put in place
+ - On which side to put it on the game table
+
+ i missed the one element and it's not working until I got help from Ilyes (my mentor) 
+
+
+2 - How does this concept relate to that concept?
+
+ I relied on small functions and then call back function 
+
+3- Am I able to articulate what's happening?
+ yes buy more comments and the function and variable name 
+
+4- How is this application different/similar to my previous project?
+
+here i used (lodash) I'm tried to learn it during this week in the other side it's good TA to work with vanilla JS  

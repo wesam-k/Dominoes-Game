@@ -19,7 +19,7 @@ const distributeTiles = (domBox, playerA, playerB) => {
   for (let i = 0; i < 7; i++) {
     // Assign one tile to player A
     playerA.push(domBox.splice(randomShuffle(domBox), 1)[0]);
-    // Assign one tile to player A
+    // Assign one tile to player B
     playerB.push(domBox.splice(randomShuffle(domBox), 1)[0]);
   }
 };
