@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/wesam-k/post-grad-ed-wesam#readme",
   "dependencies": {
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   }
 }
